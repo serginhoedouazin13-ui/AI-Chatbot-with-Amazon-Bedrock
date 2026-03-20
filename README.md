@@ -3,13 +3,21 @@ A conversational AI chatbot built on Amazon Bedrock, giving you access to powerf
 
 ## Features
 
-Multi-turn conversational chat with persistent message history
-Choice of foundation models via the Bedrock Converse API
-Optional Knowledge Base integration for RAG (grounded answers from your own documents)
-Optional Bedrock Agents for tool use and multi-step task execution
-Built-in content filtering with Bedrock Guardrails
-Streaming response support
-CloudWatch logging and token usage tracking
+-Multi-turn conversational chat with persistent message history
+
+-Choice of foundation models via the Bedrock Converse API
+
+-Optional Knowledge Base integration for RAG (grounded answers from your own documents)
+
+-Optional Bedrock Agents for tool use and multi-step task execution
+
+-Built-in content filtering with Bedrock Guardrails
+
+-Streaming response support
+
+-CloudWatch logging and token usage tracking
+
+---
 
 ## Prerequisites
  
